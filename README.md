@@ -1,6 +1,6 @@
 # Xamarin Forms Fluent UI
 
-Here's a small sample app to demo Xamarin Forms 4.6 Fluent UI syntax.
+Here's a small sample app to demo Xamarin Forms 4.6 [Fluent UI](https://github.com/xamarin/Xamarin.Forms/pull/8342) syntax.
 
 The project takes inspiration from Brandon Minnick's [XamConverter](https://github.com/brminnick/XamConverter) project, but adds in [Microsoft Extensions](https://github.com/dotnet/extensions) to allow Dependency Injection of services.
 
